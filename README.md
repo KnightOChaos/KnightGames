@@ -1,1 +1,2 @@
-Knight Games, inspired by Selenite Unblocked Games
+*Contributors*
+Just me...
