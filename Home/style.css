@@ -1,0 +1,57 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #000;
+}
+
+header {
+  background-color: #000;
+  padding: 10px 0;
+  position: fixed;
+  width: 100%;
+}
+
+nav ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  background-image: url('https://raw.githubusercontent.com/KnightOChaos/knightgames/main/ee152e8f4d645536f6bcae2d5bc9fec4.gif');
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cover {
+  text-align: center;
+}
+
+.cover h1 {
+  font-size: 48px;
+  color: #fff;
+}
+
+footer {
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
